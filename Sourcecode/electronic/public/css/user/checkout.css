@@ -1,0 +1,36 @@
+.section_title {
+    text-align: center;
+    font-size: 36px;
+    margin: 0;
+    line-height: 46px;
+    padding: 15px 0;
+    color: #0390fc;
+    text-transform: uppercase;
+}
+
+.detail_information {
+    /* font-weight: 400; */
+    text-transform: capitalize;
+    color: #cf8f05;
+}
+
+.form-control {
+    height: 40px;
+    font-size: 14px;
+}
+
+.form-note {
+    height: 100px;
+    outline: none;
+    font-size: 16px;
+}
+
+.table-bordered {
+    font-size: 16px;
+    color: #64646b;
+}
+
+.btn-success {
+    font-size: 22px;
+    padding: 7.5px 0;
+}
